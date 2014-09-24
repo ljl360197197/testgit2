@@ -3,4 +3,5 @@
 	echo 'china';
 	echo time();
 	echo 'no way';
+	echo 'what is this.';
 ?>
