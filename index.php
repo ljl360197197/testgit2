@@ -1,3 +1,4 @@
 <?php
-	echo nihao;
+	echo 'nihao';
+	echo 'china';
 ?>
