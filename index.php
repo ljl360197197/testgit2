@@ -6,5 +6,5 @@
 	echo 'what is this.';
 	echo 'test';
 	echo 'smys';
-	echo 'test1';
+	echo 'nihao';
 ?>
