@@ -7,4 +7,5 @@
 	echo 'test';
 	echo 'smys';
 	echo 'nihao';
+	echo 'www.baidu.com';
 ?>
